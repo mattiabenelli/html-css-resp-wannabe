@@ -135,7 +135,16 @@ img {
         max-width: 480px;
         margin: 0 auto;
     }
-    .col{
+    .lessons .col{
+        width: 100%;
+    }
+    .steps .col{
+        width: 100%;
+    }
+    .why-us .col-left{
+        width: 100%;
+    }
+    .why-us .col-right{
         width: 100%;
     }
 }
